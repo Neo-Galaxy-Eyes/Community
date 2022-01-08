@@ -1,4 +1,4 @@
-//暂时用不上
+//暂时用不上，下一版再加强这个
 // import axios from 'axios'
 
 // const request = axios.create({
